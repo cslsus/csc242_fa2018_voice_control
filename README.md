@@ -1,2 +1,2 @@
-# student-projects
-Student projects with documentation
+# csc242_fa2018_voice_control
+csc242_fa2018_voice_control
